@@ -64,7 +64,7 @@ A modern trading platform interface inspired by Zerodha featuring authentication
 - Web Development Head at **CSI MIET**
 - IEEE Student Member
 - **Top 2% Performer** in NPTEL _Programming in Java_
-- AWS Certified Solutions Architect
+- AWS Certified Cloud Practitioner(In progress)
 - AWS Academy Graduate — Cloud Foundations
 
 ## 📬 Connect With Me
