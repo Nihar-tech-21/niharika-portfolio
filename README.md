@@ -6,7 +6,7 @@ Built with a focus on **clean UI, smooth animations, responsiveness, and perform
 
 ## 🌐 Live Website
 
-**Portfolio:** https://niharika-portfolio-ten.vercel.app/
+**Portfolio:** https://niharikadhaka.vercel.app/
 
 ## ✨ Features
 
