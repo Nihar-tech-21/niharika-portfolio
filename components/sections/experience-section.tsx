@@ -70,13 +70,13 @@ const typeConfig = {
 export function ExperienceSection() {
   return (
     <Section
-      id="journey"
-      label="JOURNEY"
+      id="experience"
+      label="EXPERIENCE"
       title="Leadership & Learning"
       className="bg-card"
     >
       <div className="space-y-0">
-        {experiences.map((exp, index) => (
+        {[...experiences].reverse().map((exp, index) => (
           <FadeIn key={exp.title} delay={index * 0.1}>
             <div className="relative pl-12 pb-10 last:pb-0 border-l-2 border-border last:border-transparent">
               {(() => {
