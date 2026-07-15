@@ -42,6 +42,16 @@ const certifications = [
   },
 
   {
+    icon: BadgeCheck,
+    badge: "AWS ACADEMY",
+    badgeColor: "bg-orange-500/10 text-orange-600",
+    title: "Cloud Foundations",
+    subtitle: "AWS Academy Graduate • 20 Hours",
+    status: "Completed",
+    statusColor: "bg-green-500/10 text-green-600",
+  },
+
+  {
     icon: Code,
     badge: "NPTEL TOP 2%",
     badgeColor: "bg-blue-500/10 text-blue-600",

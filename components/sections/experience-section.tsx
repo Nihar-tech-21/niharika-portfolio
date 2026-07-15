@@ -37,10 +37,10 @@ const experiences = [
   },
 
   {
-    title: "AWS Cloud Certifications",
-    date: "IN PROGRESS",
+    title: "AWS Certified Cloud Practitioner (CLF-C02)",
+    date: "2026",
     description:
-      "Currently preparing for AWS Certified Cloud Practitioner, with plans to pursue AWS Solutions Architect to deepen cloud computing expertise.",
+      "Successfully earned the AWS Certified Cloud Practitioner certification and completed the AWS Academy Graduate – Cloud Architecting (60 hours). Currently preparing for AWS Certified Solutions Architect – Associate (SAA-C03) to advance cloud architecture and solution design skills.",
     type: "certification",
   },
 ];
