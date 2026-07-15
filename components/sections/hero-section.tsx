@@ -100,7 +100,7 @@ export function HeroSection() {
 
               <div className="space-y-3 mb-6">
                 {[
-                  "AWS Certified Cloud Practitioner(In progress)",
+                  "AWS Certified Cloud Practitioner(CLF-C02)",
                   "Top 2% — NPTEL Programming in Java",
                   "Web Development Head — CSI MIET",
                   "IEEE Student Member",
